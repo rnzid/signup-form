@@ -1,2 +1,2 @@
 # signup-form image
-![](img/Capturea.png)
+![](img/Capturea.PNG)
